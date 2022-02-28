@@ -134,7 +134,7 @@ export default class BaiTapThuKinh extends Component {
           </div>
         </div>
 
-        <div className="container mt-5" style={{ backgroundColor: "white" }}>
+        <div className="container mt-5 p-5" style={{ backgroundColor: "white" }}>
           <GlassesList
             glassesList={arrGlasses}
             changeGlasses={this.changeGlasses}
